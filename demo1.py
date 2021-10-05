@@ -1,0 +1,7 @@
+print(11)
+print("async")
+print(3-1)
+fp=open('D:/TEXT.txt','a+')
+print('hello world',file=fp)
+fp.close()
+print('s','s')
